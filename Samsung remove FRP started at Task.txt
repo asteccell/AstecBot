@@ -1,0 +1,13 @@
+Samsung remove FRP started at Task on 14:49:12
+Opening port COM33...OK
+READ PHONE INFO..
+Phone Model: SM-A155M
+Phone Software: A155MUBS5BXJ1/A155MOWO5BXJ1/A155MUBS5BXJ1/A155MUBS5BXJ1
+IMEI: 352467928503007
+Serial: RX8X300900E
+Carrier: ZTO
+Check Unlock Status...Order not found
+Normally this service is delivered within 1 hour, but it can take up to 12 hours to complete.
+DONE
+Thank you for your preference.
+The elapsed time of the process was 00:00:27.2072001
